@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+    width: 30%;
+    background-color: teal;
+}
+
+.infoBox{
+    background-color: white;
+}
+
+.subBtn{
+    background-color: lightseagreen;
+    padding: 2px 4px;
+}
+
+.inputBox{
+    width: 200px;
+}
+
+.length{
+    width: 400px;
+}
+
+form{
+    padding: 5px;
+}
